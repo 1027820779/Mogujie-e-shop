@@ -1,0 +1,50 @@
+[ 2016-01-21T01:03:25+08:00 ]NOTICE: Undefined variable: pic_str/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (117).
+[ 2016-01-21T01:03:25+08:00 ]NOTICE: Undefined variable: pic_str/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (118).
+[ 2016-01-21T01:03:25+08:00 ]NOTICE: Undefined variable: pic_str/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (119).
+[ 2016-01-21T01:03:25+08:00 ]NOTICE: Undefined variable: goods_gid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (123).
+[ 2016-01-21T02:05:57+08:00 ]NOTICE: Undefined variable: data/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Controller/GoodsController.php (122).
+[ 2016-01-21T08:36:33+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (137).
+[ 2016-01-21T08:36:33+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (137).
+[ 2016-01-21T08:36:33+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (137).
+[ 2016-01-21T09:21:55+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:21:55+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:21:55+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:21:55+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:21:55+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:21:55+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:22:17+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:22:17+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:22:17+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:22:17+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:22:17+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:22:17+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:27:53+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:27:53+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:27:53+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:27:53+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:27:53+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:27:53+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:28:33+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:28:33+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:28:33+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:28:33+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:28:33+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:28:33+08:00 ]NOTICE: Undefined index: g_other_price/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (154).
+[ 2016-01-21T09:29:34+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:29:34+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:31:00+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T09:31:00+08:00 ]NOTICE: Undefined index: attr_type_atid/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (151).
+[ 2016-01-21T10:00:24+08:00 ]NOTICE: Use of undefined constant ASC - assumed 'ASC'/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/IndexController.php (18).
+[ 2016-01-21T10:00:39+08:00 ]NOTICE: Use of undefined constant DESC - assumed 'DESC'/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/IndexController.php (18).
+[ 2016-01-21T10:27:03+08:00 ]NOTICE: Undefined variable: cate/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/IndexController.php (20).
+[ 2016-01-21T10:29:00+08:00 ]NOTICE: Missing argument 1 for p(), called in /Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/IndexController.php on line 22 and defined/Applications/MAMP/htdocs/houdun/mogujie/Hdphp/Kernel/Functions.php (128).
+[ 2016-01-21T10:29:00+08:00 ]NOTICE: Undefined variable: var/Applications/MAMP/htdocs/houdun/mogujie/Hdphp/Kernel/Functions.php (131).
+[ 2016-01-21T10:29:14+08:00 ]NOTICE: Missing argument 1 for p(), called in /Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/IndexController.php on line 22 and defined/Applications/MAMP/htdocs/houdun/mogujie/Hdphp/Kernel/Functions.php (128).
+[ 2016-01-21T10:29:14+08:00 ]NOTICE: Undefined variable: var/Applications/MAMP/htdocs/houdun/mogujie/Hdphp/Kernel/Functions.php (131).
+[ 2016-01-21T12:09:00+08:00 ]EXCEPTION: Method Home\Controller\IndexController::List\index() does not exist
+[ 2016-01-21T12:09:46+08:00 ]EXCEPTION: Method Home\Controller\IndexController::List\index() does not exist
+[ 2016-01-21T12:28:24+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-21T12:28:24+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-21T12:28:48+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-21T12:28:48+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-21T16:21:25+08:00 ]EXCEPTION: Admin\Controller\WebsetController 不存在

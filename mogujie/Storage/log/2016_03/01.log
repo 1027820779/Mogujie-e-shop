@@ -1,0 +1,59 @@
+[ 2016-03-01T09:53:34+08:00 ]NOTICE: Undefined variable: morder_list/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/UcenterController.php (171).
+[ 2016-03-01T10:00:04+08:00 ]NOTICE: Undefined variable: moderlist_data/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:04+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:25+08:00 ]NOTICE: Undefined variable: moderlist_data/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:25+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:26+08:00 ]NOTICE: Undefined variable: moderlist_data/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:26+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:26+08:00 ]NOTICE: Undefined variable: moderlist_data/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:26+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:29+08:00 ]NOTICE: Undefined variable: moderlist_data/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:29+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (162).
+[ 2016-03-01T10:00:44+08:00 ]NOTICE: Undefined index: oid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (175).
+[ 2016-03-01T10:00:44+08:00 ]NOTICE: Undefined index: oid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (175).
+[ 2016-03-01T10:00:44+08:00 ]NOTICE: Undefined index: oid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (175).
+[ 2016-03-01T10:08:20+08:00 ]NOTICE: Undefined index: all_price=$morder/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/362336c0f3fd791a267da98426923874.php (185).
+[ 2016-03-01T10:16:34+08:00 ]EXCEPTION: Method Home\Controller\UcenterController::myOrder2() does not exist
+[ 2016-03-01T13:27:11+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (142).
+[ 2016-03-01T13:27:11+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (143).
+[ 2016-03-01T13:27:11+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (144).
+[ 2016-03-01T13:27:11+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (145).
+[ 2016-03-01T13:27:11+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (147).
+[ 2016-03-01T13:27:11+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (149).
+[ 2016-03-01T13:27:26+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (142).
+[ 2016-03-01T13:27:26+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (143).
+[ 2016-03-01T13:27:26+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (144).
+[ 2016-03-01T13:27:26+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (145).
+[ 2016-03-01T13:27:26+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (147).
+[ 2016-03-01T13:27:26+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (149).
+[ 2016-03-01T13:27:33+08:00 ]NOTICE: Undefined variable: nums/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2de049ed93926d6670b5e788c68c3e51.php (166).
+[ 2016-03-01T13:27:33+08:00 ]NOTICE: Undefined variable: all_m/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2de049ed93926d6670b5e788c68c3e51.php (238).
+[ 2016-03-01T13:27:33+08:00 ]NOTICE: Undefined variable: nums/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2de049ed93926d6670b5e788c68c3e51.php (240).
+[ 2016-03-01T13:34:15+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (150).
+[ 2016-03-01T13:34:15+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (151).
+[ 2016-03-01T13:34:15+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (152).
+[ 2016-03-01T13:34:15+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (153).
+[ 2016-03-01T13:34:15+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (155).
+[ 2016-03-01T13:34:15+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (157).
+[ 2016-03-01T13:34:27+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (150).
+[ 2016-03-01T13:34:27+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (151).
+[ 2016-03-01T13:34:27+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (152).
+[ 2016-03-01T13:34:27+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (153).
+[ 2016-03-01T13:34:27+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (155).
+[ 2016-03-01T13:34:27+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (157).
+[ 2016-03-01T13:34:49+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (150).
+[ 2016-03-01T13:34:49+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (151).
+[ 2016-03-01T13:34:49+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (152).
+[ 2016-03-01T13:34:49+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (153).
+[ 2016-03-01T13:34:49+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (155).
+[ 2016-03-01T13:34:49+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (157).
+[ 2016-03-01T13:34:57+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (150).
+[ 2016-03-01T13:34:57+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (151).
+[ 2016-03-01T13:34:57+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (152).
+[ 2016-03-01T13:34:57+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (153).
+[ 2016-03-01T13:34:57+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (155).
+[ 2016-03-01T13:34:57+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (157).
+[ 2016-03-01T13:42:35+08:00 ]NOTICE: Undefined index: coid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (165).
+[ 2016-03-01T13:42:35+08:00 ]NOTICE: Undefined index: coid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (165).
+[ 2016-03-01T13:42:35+08:00 ]NOTICE: Undefined index: coid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fe54629c22920ac4b0de7ab523e46f50.php (165).
+[ 2016-03-01T19:00:17+08:00 ]EXCEPTION: Admin\Controller\LinkController 不存在

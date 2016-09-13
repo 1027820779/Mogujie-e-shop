@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.mzy_message {
+    position: fixed;
+    top: -102px;
+    width: 100%;
+    height: 102px;
+    line-height: 102px;
+    background: #ff4466;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+.mzy_bg {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.4);
+  display: none;
+}
+.mzy_bg .mzy_bg_content {
+  position: fixed;
+  z-index: 99999;
+  background: #2e3846;
+  padding: 15px;
+  min-width: 300px;
+  text-align: center;
+  border-radius: 3px;
+  color: white;
+}
+.mzy_bg .mzy_bg_content .mzy_msg {
+  margin-right: 5px;
+}
+.mzy_bg .mzy_bg_content .mzy_close {
+  display: inline-block;
+  color: #f44a56;
+  font-weight: 700;
+  /*执行时间*/
+  transition: 1s;
+  transform-origin: 50% 50%;
+}
+.mzy_bg .mzy_bg_content .mzy_close:hover {
+  cursor: pointer;
+  transform: rotate(180deg);
+}
+/*# sourceMappingURL=mzyValidate.css.map */

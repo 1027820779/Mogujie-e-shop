@@ -1,0 +1,619 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: @common_color;
+}
+@full_width:100%;
+@common_width:1200px;
+@common_color:#F2F2F2;
+.common_section{
+    width: @full_width;
+//  overflow: hidden;
+}
+.common_frame(@height){
+    width: @full_width;
+    height: @height;
+}
+.common_width{
+    margin: 0 auto;
+    width: @common_width;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.a_fontset{
+        font-family: sans-serif;
+        font-size: 12px;
+        color: #333;
+        transition: all 0.5s;
+        &:hover{
+            color:#F46 ;
+        }
+}
+//头部
+.header{
+    .common_section;
+}
+//购物车，登录，注册
+.header_top_frame{
+    .common_frame(31px);
+    background: #f2f2f2;
+    border-bottom: 1px solid #ddd;
+}
+.header_top{
+    .common_width;
+    height: 31px;
+    background: #F2F2F2;
+    font-family: sans-serif;
+    font-size: 12px;
+    .home_link{
+        .fl;
+        display: inline-block;
+        height: 30px;
+        line-height: 30px;
+        vertical-align: top;
+        color: #333;
+        .a_fontset;
+        i{
+            font-size: 16px;
+            margin-right: 4px;
+        }
+    }
+    .top_menu{
+        .fr;
+        .s1{
+            .fl;
+            display: inline;
+            height: 31px;
+            position: relative;
+            margin: 0px 0px 0px 15px;
+            z-index: 100;
+            .menu_name{
+                float: left;
+                margin-top: 8px;
+                line-height: 14px;
+                .a_fontset;
+            }
+            
+        }
+        .has-line{
+            .menu_name{
+                padding-left: 15px;
+                border-left: 1px solid #ddd;
+            }
+            i{
+                margin-right: 4px;
+            }
+        }
+        .icon-b{
+            .cus{
+                padding-left: 15px;
+                border-left: 1px solid #ddd;
+            }
+            i{
+                margin-left: 4px;
+                transition: all 0.3s;
+            }
+        }
+        .login_user{
+            &:hover{
+                a{
+                    i{
+                        transform: rotate(180deg);
+                        -ms-transform: rotate(180deg);
+                        -moz-transform: rotate(180deg);
+                        -webkit-transform: rotate(180deg);
+                        -o-transform: rotate(180deg);
+                        display: inline-block;
+                        
+                    }
+                }
+                ul{
+                    display: block;
+                }
+            }
+            ul{
+                display: none;
+                width: 90px;
+                background: #F2F2F2;
+                position: absolute;
+                top: 31px;
+                left: 0;
+                border-bottom-left-radius: 4px;
+                border-bottom-right-radius: 4px;
+                border: 1px solid #ddd;
+                border-top: none;
+                li{
+                    margin-bottom: 2px;
+                    a{
+                        float: none;
+                        display: block;
+                        line-height: 28px;
+                        padding: 0 20px;
+                        margin: 0;
+                        overflow: hidden;
+                        color: #444;
+                        &:hover{
+                            background:#e4e4e4;
+                        }
+                    }
+                }
+            }
+            
+        }        
+        .my-store{
+            a{
+                padding-left: 15px;
+                border-left: 1px solid #ddd;
+            }
+            span{
+                margin-right: 4px;
+                width: 21px;
+                height: 21px;
+                display: block;
+                background: #FF5858;
+                float: left;
+                font-size: 8px;
+                color: white;
+                text-align: center;
+                line-height: 21px;
+                border-radius: 3px;
+                margin-top: -3px;
+            }
+        }
+
+        .shoping-car{
+            &:hover{
+                .shoping_list{
+                    display: block;
+                }
+            }
+            i{
+                color: #f46;
+                font-size: 14px;
+            }
+            .shoping_list{
+                display: none;
+                width: 250px;
+                background: #F2F2F2;
+                position: absolute;
+                top: 31px;
+                left: -100px;
+                border-bottom-left-radius: 4px;
+                border-bottom-right-radius: 4px;
+                border: 1px solid #ddd;
+                border-top: none;
+                padding: 20px;
+                li{
+                    width: 100%;
+                    height: 40px;
+                    float: left;
+                    margin-bottom: 10px;
+                    .shop_img{
+                        float: left;
+                        margin-right: 10px;
+                    }
+                    .shoping_name{
+                        display: inline-block;
+                        color: #333;
+                        width: 137px;
+                        height: 20px;
+                        line-height: 20px;
+                        overflow: hidden;
+                        text-overflow: ellipsis;
+                        white-space: nowrap;
+                        font-size: 12px;
+                        transition: all 0.6s; 
+                        &:hover{
+                            color: #FF4466;
+                        }
+                    }
+                    .shoping_price{
+                        .fr;
+                        color: #666;
+                    }
+                    .shoping_info{
+                        .fl;
+                        color: #999;
+                    }
+                    .shoping_dell{
+                        .fr;
+                        cursor: pointer;
+                        color: #999;
+                    }
+                }
+                .nogood{
+                    text-align: center;
+                    line-height: 40px;
+                    color: #999;
+                }
+                .subbox{
+                    border-top: 1px solid #ddd;
+                    color: #333;
+                    padding: 15px 0 0 0;
+                    line-height: 24px;
+                    height: 24px;
+                    float: left;
+                    width: 100%;
+                    .caring{
+                        color: white;
+                        float: right;
+                        display: block;
+                        background: #F46;
+                        border: none;
+                        padding: 0px 16px;
+                        border-radius: 4px;
+                        font-size: 12px;
+                    }
+                }
+            }
+        }
+        .custom-help{
+            &:hover{
+                a{
+                    i{
+                        transform: rotate(180deg);
+                        -ms-transform: rotate(180deg);
+                        -moz-transform: rotate(180deg);
+                        -webkit-transform: rotate(180deg);
+                        -o-transform: rotate(180deg);
+                        display: inline-block;
+                        
+                    }
+                }
+                ul{
+                    display: block;
+                }
+            }
+            ul{
+                display: none;
+                width: 90px;
+                background: #F2F2F2;
+                position: absolute;
+                top: 31px;
+                left: 0;
+                border-bottom-left-radius: 4px;
+                border-bottom-right-radius: 4px;
+                border: 1px solid #ddd;
+                border-top: none;
+                li{
+                    margin-bottom: 2px;
+                    a{
+                        float: none;
+                        display: block;
+                        line-height: 28px;
+                        padding: 0 20px;
+                        margin: 0;
+                        overflow: hidden;
+                        color: #444;
+                        &:hover{
+                            background:#e4e4e4;
+                        }
+                    }
+                }
+            }
+            
+        }
+        
+    }
+}
+//logo,搜索
+.header_middle_frame{
+    .common_frame(90px);
+    background: #F2F2F2;
+}
+.header_middle{
+    .common_width;
+    height: 90px;
+    font-family: sans-serif;
+    font-size: 12px;
+    .logo_link{
+        .fl;
+        width: 250px;
+        height: 90px;
+        background: url(../img/logo_link.png) no-repeat;
+        background-size: 207px auto;
+        background-position-y: 24px;
+    }
+    .proces_bar{
+        float: right;
+        width: 494px;
+        .steps{
+            width: 494px;
+            background: url(../img/process_sd.png) 0 18px repeat-x;
+            position: relative;
+            height: 23px;
+            margin: 0 auto;
+            padding: 18px 0 24px;
+            margin-top: 15px;
+            .md_proces_sd{
+                width: 405px;
+                background: url(../img/process.png) 23px 0 repeat-x;
+                position: absolute;
+                top: 18px;
+                left: 0;
+                height: 23px;
+            }
+            .md_proces_m1,.md_proces_m2,.md_proces_m3,.md_proces_m4{
+                position: absolute;
+                top: 18px;
+                width: 23px;
+                height: 23px;
+                font: 400 14px/23px helvetica,tahoma,arial,sans-serif;
+                color: #fff;
+                text-align: center;
+                    span{
+                    position: absolute;
+                    top: 24px;
+                    width: 100px;
+                    height: 20px;
+                    left: 50%;
+                    margin-left: -50px;
+                    font: 400 12px/20px helvetica,tahoma,arial,sans-serif;
+                    color: #999;
+                    }
+                }
+                .md_proces_m1{
+                    left: 0;
+                    span{
+                        color: #FF4466;
+                    }
+                }
+                .md_proces_m2{
+                    left: 157px;
+                    span{
+                        color: #FF4466;
+                    }
+                }
+                .md_proces_m3{
+                    left: 314px;
+                    span{
+                        color: #FF4466;
+                    }
+                }
+                .md_proces_m4{
+                    left: 471px;
+                    i{
+                        
+                    }
+                }
+        }
+    }
+}
+//购物车里面产品列表
+.body{
+    .common_section;
+}
+.body_frame{
+    .common_frame(auto);
+    background: #F2F2F2;
+    border-top: 2px solid #f46;
+}
+.g_wrap{
+    .common_width;
+    height: auto;
+    margin-top: 30px;
+}
+.cartslide{
+    padding-left: 20px!important;
+    overflow: hidden;
+    background: white;
+    li{
+        float: left;
+        padding-top: 30px;
+        width: 100%;
+        .iconok{
+            font-family: sans-serif;
+            font-size: 18px;
+            .suc{
+                    width: 20px;
+                    height: 20px;
+                    background: #ff4466;
+                    color: white;
+                    font-size: 12px;
+                    display: inline-block;
+                    text-align: center;
+                    line-height: 20px;
+                    border-radius: 100%;
+                    margin-right: 10px;
+                    margin-top: 3px;
+                    float: left;                   
+            }
+        }
+        .alert_suc{
+            color: #F46;
+            font-weight: 700;
+        }
+        .by_calcel{
+            font-size: 14px;
+        }
+        .for_pay{
+           float: right;
+            margin-right: 30px; 
+            span{
+                font-size: 12px;
+                font-family: sans-serif;
+            }
+            .real_mon{
+                font-size: 20px;
+                color: #f46;
+                font-weight: 700;
+            }
+        }
+    }
+}
+.cart_nobtm{
+    background: white;
+    .cart_page_wrap{
+        padding: 20px 0px;
+        .cart_table{
+            width: 100%;
+            border-collapse: collapse;
+            border-color: grey;
+            color: #333;
+            overflow: hidden;
+            .th_2{
+                border-top: 2px solid #efefef;
+                border-bottom: 1px dashed #efefef;
+                padding: 15px 0 15px 49px;
+                font-weight: 400;
+                font-family: arial, sans-serif;
+                text-align: left;
+                font-size: 24px;
+                span{
+                    font-size: 14px;
+                    color: #444;
+                }
+            }
+            .pay_link{
+                padding: 15px 0 15px 49px;
+                .se_payfang{
+                    float: left;
+                    position: relative;
+                    margin: 0 12px 10px 0;
+                    background: #fff;
+                    border: 2px solid #ececec;
+                    cursor: pointer;
+                    transition: border-color .1s;
+                        &:hover{
+                            border-color: #FF4466;
+                        }
+                    img{
+                      width: 130px;
+                      height: 40px;  
+                    }
+                }
+                .paypaswsword{
+                    width: 240px;
+                    height: 40px;
+                    outline: none;
+                    border: 2px solid #ececec;
+                    text-indent: 5px;
+                    color: #999;
+                    font-size: 13px;
+                    float: right;
+                    margin-right: -260px;
+                } 
+            }
+        }
+    }
+}
+.cartpaybar{
+    position: relative;
+    height: 50px;
+    background: #FFF none repeat scroll 0% 0%;
+    border-top: 2px solid #ececec;
+    line-height: 50px;
+    clear: both;
+}
+.sub_btn{
+    float: right;
+    display: block;
+    width: 190px;
+    height: 52px;
+    margin-top: -2px;
+    overflow: hidden;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.all_pay_price{
+    float: right;
+    position: relative;
+    padding: 0px 12px 0px 8px;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 26px;
+    color: #FF5858;
+    font-family: "Microsoft YaHei",sans-serif;
+}
+.cart_all_money_info{
+    color: #666 !important;
+    float: right;
+    line-height: 50px;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+//页面footer
+
+.footer{
+   .common_section; 
+}
+.footer_frame{
+    .common_frame(auto);
+    overflow: hidden;
+    margin: 60px 0px;
+    font-size: 12px;
+    color: #999;
+}
+.footer_oz{
+    .common_width;
+    
+}
+.footer_links{
+    text-align: center;
+    font-family: sans-serif;
+    a{
+        color: #999;
+        &:hover{
+            color: #FF4466;
+        }
+    }
+}
+
+//
+.footer_icons{
+    padding-top: 16px;
+    height: 28px;
+    text-align: center;
+    a{
+        display: inline-block;
+        height: 28px;
+        vertical-align: top;
+        cursor: default;
+        background: url(../img/split.png);
+        background-repeat: no-repeat;
+    }
+    .vs{
+        width: 80px;
+        background-position: 0 -50px;
+    }
+    .mc{
+        width: 74px;
+        background-position: -90px -50px;
+    }
+    .up{
+        width: 50px;
+        background-position: -178px -50px;
+    }
+    .pa{
+       width: 164px;
+       background-position: -240px -50px; 
+    }
+    .kx{
+        width: 84px;
+        background-position: -400px -50px;
+    }
+    .pc{
+        width: 50px;
+        background-position: -486px -50px;
+    }
+}
+
+
+
+
+

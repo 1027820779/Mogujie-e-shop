@@ -1,0 +1,73 @@
+[ 2016-01-22T08:40:24+08:00 ]NOTICE: Undefined variable: cate_name/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (104).
+[ 2016-01-22T08:40:24+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:40:24+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:40:34+08:00 ]NOTICE: Undefined variable: cate_name/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (104).
+[ 2016-01-22T08:40:34+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:40:34+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:40:46+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:40:46+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:46:09+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:46:09+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:46:51+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:46:51+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:50:16+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:50:16+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:50:53+08:00 ]NOTICE: Undefined variable: goods/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:50:53+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (147).
+[ 2016-01-22T08:51:48+08:00 ]NOTICE: Undefined index: list_pic/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (149).
+[ 2016-01-22T08:51:48+08:00 ]NOTICE: Undefined index: gname/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (150).
+[ 2016-01-22T08:51:48+08:00 ]NOTICE: Undefined index: goods_price/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (152).
+[ 2016-01-22T08:51:48+08:00 ]NOTICE: Undefined index: click/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (153).
+[ 2016-01-22T08:52:26+08:00 ]NOTICE: Undefined index: list_pic/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (149).
+[ 2016-01-22T08:52:26+08:00 ]NOTICE: Undefined index: gname/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (150).
+[ 2016-01-22T08:52:26+08:00 ]NOTICE: Undefined index: goods_price/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (152).
+[ 2016-01-22T08:52:26+08:00 ]NOTICE: Undefined index: click/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (153).
+[ 2016-01-22T08:54:20+08:00 ]NOTICE: implode(): Invalid arguments passed/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ListController.php (20).
+[ 2016-01-22T08:54:20+08:00 ]EXCEPTION: SELECT  *  FROM goods WHERE category_cid in ()  ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+[ 2016-01-22T09:03:19+08:00 ]NOTICE: Undefined variable: vv/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (150).
+[ 2016-01-22T09:03:19+08:00 ]NOTICE: Undefined variable: vv/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (150).
+[ 2016-01-22T09:03:19+08:00 ]NOTICE: Undefined variable: vv/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (150).
+[ 2016-01-22T09:03:19+08:00 ]NOTICE: Undefined variable: vv/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (150).
+[ 2016-01-22T09:03:19+08:00 ]NOTICE: Undefined variable: vv/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (150).
+[ 2016-01-22T09:03:19+08:00 ]NOTICE: Undefined variable: vv/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/9c5abaaa6f02cf73c9209d43230d6294.php (150).
+[ 2016-01-22T09:56:37+08:00 ]NOTICE: Undefined index: gname/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (145).
+[ 2016-01-22T09:56:37+08:00 ]NOTICE: Undefined index: mark_price/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (151).
+[ 2016-01-22T09:56:37+08:00 ]NOTICE: Undefined index: goods_price/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (158).
+[ 2016-01-22T09:56:59+08:00 ]NOTICE: Undefined index: gname/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (145).
+[ 2016-01-22T09:56:59+08:00 ]NOTICE: Undefined index: mark_price/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (151).
+[ 2016-01-22T09:56:59+08:00 ]NOTICE: Undefined index: goods_price/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (158).
+[ 2016-01-22T09:57:16+08:00 ]NOTICE: Undefined index: gname/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (145).
+[ 2016-01-22T09:57:16+08:00 ]NOTICE: Undefined index: mark_price/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (151).
+[ 2016-01-22T09:57:16+08:00 ]NOTICE: Undefined index: goods_price/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/2285f5ecd290c2ae060f2c24a56dc0d2.php (158).
+[ 2016-01-22T10:29:03+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (34).
+[ 2016-01-22T10:29:03+08:00 ]NOTICE: Undefined variable: ids/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (34).
+[ 2016-01-22T10:29:43+08:00 ]NOTICE: Undefined variable: ids/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (35).
+[ 2016-01-22T10:30:20+08:00 ]NOTICE: Undefined variable: ids/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (35).
+[ 2016-01-22T10:30:20+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (35).
+[ 2016-01-22T10:30:20+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (35).
+[ 2016-01-22T10:30:44+08:00 ]NOTICE: Undefined variable: ids/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (35).
+[ 2016-01-22T10:30:44+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (35).
+[ 2016-01-22T10:31:35+08:00 ]NOTICE: Undefined variable: ids/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:31:55+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:33:04+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:33:44+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (37).
+[ 2016-01-22T10:33:44+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (37).
+[ 2016-01-22T10:33:45+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (37).
+[ 2016-01-22T10:33:47+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (37).
+[ 2016-01-22T10:33:47+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (37).
+[ 2016-01-22T10:33:50+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (37).
+[ 2016-01-22T10:33:50+08:00 ]NOTICE: Undefined offset: 10/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (37).
+[ 2016-01-22T10:37:16+08:00 ]NOTICE: Undefined offset: 4/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:17+08:00 ]NOTICE: Undefined offset: 2/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:17+08:00 ]NOTICE: Undefined offset: 6/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:19+08:00 ]NOTICE: Undefined offset: 1/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:19+08:00 ]NOTICE: Undefined offset: 4/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:19+08:00 ]NOTICE: Undefined offset: 4/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:20+08:00 ]NOTICE: Undefined offset: 5/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:21+08:00 ]NOTICE: Undefined offset: 0/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:21+08:00 ]NOTICE: Undefined offset: 5/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:21+08:00 ]NOTICE: Undefined offset: 6/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:21+08:00 ]NOTICE: Undefined offset: 7/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:22+08:00 ]NOTICE: Undefined offset: 1/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).
+[ 2016-01-22T10:37:22+08:00 ]NOTICE: Undefined offset: 1/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/ContentController.php (36).

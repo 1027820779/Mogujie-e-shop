@@ -1,0 +1,44 @@
+/**
+ * change awatar
+ */
+.change_password_frame{
+padding-top: 20px;
+}
+.inputss{
+    margin-left: 20px;
+}
+.inputss li{
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.inputss li input{
+    border-color: #cfcfcf;
+    color: #4d4d4d;
+    background: none;
+    border: 1px solid #ccc;
+    height: 28px;
+    width: 269px;
+    padding: 0 6px;
+    outline: none;
+}
+.inputss .lastf a{
+    display: inline;
+    float: left;
+    border: none;
+    width: 283px;
+    height: 30px;
+    background: #FF4466;
+    border-radius: 2px;
+    cursor: pointer;
+    color: #fff;
+    text-align: center;
+    line-height: 30px;
+    font-family: sans-serif;
+}
+
+
+
+
+
+

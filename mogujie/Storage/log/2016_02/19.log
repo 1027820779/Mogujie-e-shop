@@ -1,0 +1,59 @@
+[ 2016-02-19T09:29:23+08:00 ]NOTICE: Undefined index: address/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/5b2fca6743dbae9f92c7d1cbafdb2e34.php (43).
+[ 2016-02-19T09:29:23+08:00 ]NOTICE: Undefined index: address/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/5b2fca6743dbae9f92c7d1cbafdb2e34.php (43).
+[ 2016-02-19T09:29:23+08:00 ]NOTICE: Undefined index: address/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/5b2fca6743dbae9f92c7d1cbafdb2e34.php (43).
+[ 2016-02-19T09:36:28+08:00 ]NOTICE: Undefined index: address/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/5b2fca6743dbae9f92c7d1cbafdb2e34.php (43).
+[ 2016-02-19T09:36:28+08:00 ]NOTICE: Undefined index: address/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/5b2fca6743dbae9f92c7d1cbafdb2e34.php (43).
+[ 2016-02-19T09:36:28+08:00 ]NOTICE: Undefined index: address/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/5b2fca6743dbae9f92c7d1cbafdb2e34.php (43).
+[ 2016-02-19T09:44:49+08:00 ]NOTICE: Undefined index: value/Applications/MAMP/htdocs/houdun/mogujie/Hdphp/View/HdphpTag.php (154).
+[ 2016-02-19T10:09:52+08:00 ]NOTICE: Undefined variable: tid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (20).
+[ 2016-02-19T10:09:52+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:09:52+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:11:06+08:00 ]NOTICE: Use of undefined constant tid - assumed 'tid'/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (20).
+[ 2016-02-19T10:11:06+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:11:06+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:11:20+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:11:20+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:11:51+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:11:51+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:11:52+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/1ecf095cf0de609e8376bc2620342613.php (29).
+[ 2016-02-19T10:11:52+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/1ecf095cf0de609e8376bc2620342613.php (29).
+[ 2016-02-19T10:22:19+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:22:19+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:31:26+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:31:26+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:32:19+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:32:19+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:36:29+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:36:29+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:37:01+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:37:01+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T10:37:03+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:37:03+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:37:05+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/1ecf095cf0de609e8376bc2620342613.php (29).
+[ 2016-02-19T10:37:05+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/1ecf095cf0de609e8376bc2620342613.php (29).
+[ 2016-02-19T10:37:07+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:37:07+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:39:08+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:39:08+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:39:12+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:39:12+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:58:27+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T10:58:27+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T11:00:03+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T11:00:03+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T11:00:35+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T11:00:35+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T11:05:38+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T11:05:38+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (29).
+[ 2016-02-19T11:07:02+08:00 ]NOTICE: Undefined index: atid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (44).
+[ 2016-02-19T11:07:02+08:00 ]NOTICE: Undefined index: atid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (45).
+[ 2016-02-19T11:07:02+08:00 ]NOTICE: Undefined index: atid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (44).
+[ 2016-02-19T11:07:02+08:00 ]NOTICE: Undefined index: atid/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/fbc748355e67ace42f575460555b1d25.php (45).
+[ 2016-02-19T14:04:04+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T14:04:04+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/d3a4e9c017f254f0d250aed3cefff078.php (29).
+[ 2016-02-19T14:06:18+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/21e5586f027ed18242b64362585b2570.php (142).
+[ 2016-02-19T14:06:18+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/21e5586f027ed18242b64362585b2570.php (143).
+[ 2016-02-19T14:06:18+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/21e5586f027ed18242b64362585b2570.php (144).
+[ 2016-02-19T14:06:18+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/21e5586f027ed18242b64362585b2570.php (145).
+[ 2016-02-19T14:06:18+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/21e5586f027ed18242b64362585b2570.php (147).
+[ 2016-02-19T14:06:18+08:00 ]NOTICE: Undefined variable: udata/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/21e5586f027ed18242b64362585b2570.php (149).

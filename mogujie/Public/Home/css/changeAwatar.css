@@ -1,0 +1,88 @@
+/**
+ * change awatar
+ */
+.change_awatar_frame{
+padding-top: 20px;
+}
+.awatars_box{
+    width: 500px;
+    height: auto;
+    float: left;
+}
+.awatars_box li{
+    width: 100px;
+    height: 100px;
+    float: left;
+    cursor: pointer;
+}
+.awatars_box li img{
+    width: 100px;
+    height: 100px;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;
+}
+.awatars_box li img:hover{
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    -o-filter: grayscale(0%);
+    filter: grayscale(0%);
+    filter: gray;
+}
+#selectedimg{
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    -ms-filter: grayscale(0%);
+    -o-filter: grayscale(0%);
+    filter: grayscale(0%);
+    filter: gray;
+}
+
+.left_selectd_img{
+    float: right;
+    width: 319px;
+    height: 400px;
+    border-left: 1px dashed #cecece;
+}
+.ttt{
+    text-align: center;
+    font-family: sans-serif;
+    color: #666;
+}
+.demo_awatar{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 40px;
+}
+.check_awatar{
+    width: 100px;
+    height: 30px;
+    margin: 0 auto;
+    display: block;
+    background: #cecece;
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+    line-height: 30px;
+    font-family: sans-serif;
+    font-size: 15px;
+    border-radius: 2px;
+    cursor: no-drop;
+}
+
+
+
+
+
+
+
+
+
+
+

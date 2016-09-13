@@ -1,0 +1,98 @@
+[ 2016-01-29T16:09:47+08:00 ]NOTICE: Use of undefined constant all_price - assumed 'all_price'/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (162).
+[ 2016-01-29T16:09:47+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129549876652824',
+  1 => '小艾',
+  2 => 'all_price',
+  3 => 1454054987,
+  4 => '快点发好不好',
+  5 => '10',
+  6 => '8',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`user_uid`,`' at line 1
+[ 2016-01-29T16:10:57+08:00 ]NOTICE: Undefined variable: true/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (170).
+[ 2016-01-29T16:10:58+08:00 ]NOTICE: Undefined variable: true/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (170).
+[ 2016-01-29T16:11:04+08:00 ]NOTICE: Undefined variable: true/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (170).
+[ 2016-01-29T16:11:05+08:00 ]NOTICE: Undefined variable: true/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (170).
+[ 2016-01-29T16:11:05+08:00 ]NOTICE: Undefined variable: true/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (170).
+[ 2016-01-29T16:11:05+08:00 ]NOTICE: Undefined variable: true/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (170).
+[ 2016-01-29T16:11:05+08:00 ]NOTICE: Undefined variable: true/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (170).
+[ 2016-01-29T16:11:33+08:00 ]NOTICE: Undefined variable: true/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (170).
+[ 2016-01-29T16:15:42+08:00 ]NOTICE: Use of undefined constant all_price - assumed 'all_price'/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (162).
+[ 2016-01-29T16:15:42+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129553423767423',
+  1 => '小艾',
+  2 => 'all_price',
+  3 => 1454055342,
+  4 => 'sdfsdfs',
+  5 => '10',
+  6 => '8',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`user_uid`,`' at line 1
+[ 2016-01-29T16:15:59+08:00 ]NOTICE: Use of undefined constant all_price - assumed 'all_price'/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (162).
+[ 2016-01-29T16:15:59+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129553592560605',
+  1 => '小艾',
+  2 => 'all_price',
+  3 => 1454055359,
+  4 => 'sdfsdfs',
+  5 => '10',
+  6 => '8',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`user_uid`,`' at line 1
+[ 2016-01-29T16:53:24+08:00 ]NOTICE: Use of undefined constant all_price - assumed 'all_price'/Applications/MAMP/htdocs/houdun/mogujie/App/Home/Controller/CartController.php (162).
+[ 2016-01-29T16:59:44+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129579846553612',
+  1 => '小艾',
+  2 => 667,
+  3 => 1454057984,
+  4 => '46456',
+  5 => '10',
+  6 => '8',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`user_uid`,`' at line 1
+[ 2016-01-29T17:01:55+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129581157066086',
+  1 => '小艾',
+  2 => 667,
+  3 => 1454058115,
+  4 => '',
+  5 => '0',
+  6 => '10',
+  7 => '8',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`' at line 1
+[ 2016-01-29T17:03:47+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129582273255391',
+  1 => '小艾',
+  2 => 667,
+  3 => 1454058227,
+  4 => '4343',
+  5 => 0,
+  6 => '10',
+  7 => '8',
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`' at line 1
+[ 2016-01-29T17:09:21+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129585616246952',
+  1 => '艾尔肯·库尔班',
+  2 => 667,
+  3 => 1454058561,
+  4 => '4gdgdg',
+  5 => 0,
+  6 => 10,
+  7 => 3,
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`' at line 1
+[ 2016-01-29T17:09:23+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129585633604050',
+  1 => '艾尔肯·库尔班',
+  2 => 667,
+  3 => 1454058563,
+  4 => '4gdgdg',
+  5 => 0,
+  6 => 10,
+  7 => 3,
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`' at line 1
+[ 2016-01-29T17:09:23+08:00 ]EXCEPTION: INSERT INTO order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`,`user_uid`,`address_adid`)VALUES(?,?,?,?,?,?,?,?) ;BindParams:array (
+  0 => 'F0129585636153969',
+  1 => '艾尔肯·库尔班',
+  2 => 667,
+  3 => 1454058563,
+  4 => '4gdgdg',
+  5 => 0,
+  6 => 10,
+  7 => 3,
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order (`order_num`,`username`,`all_price`,`create_time`,`translate`,`order_type`' at line 1

@@ -1,0 +1,50 @@
+[ 2016-01-16T00:50:07+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/3b59274daa73569ce8b14effdf9187c6.php (29).
+[ 2016-01-16T00:50:07+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/3b59274daa73569ce8b14effdf9187c6.php (29).
+[ 2016-01-16T00:50:39+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/3b59274daa73569ce8b14effdf9187c6.php (29).
+[ 2016-01-16T00:50:39+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/3b59274daa73569ce8b14effdf9187c6.php (29).
+[ 2016-01-16T00:51:49+08:00 ]NOTICE: Undefined variable: attr/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/3b59274daa73569ce8b14effdf9187c6.php (29).
+[ 2016-01-16T00:51:49+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/3b59274daa73569ce8b14effdf9187c6.php (29).
+[ 2016-01-16T01:52:45+08:00 ]EXCEPTION: SELECT  *  FROM category WHERE cid NOT IN() ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+[ 2016-01-16T09:17:25+08:00 ]EXCEPTION: SELECT  *  FROM category WHERE cid NOT IN() ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+[ 2016-01-16T09:18:29+08:00 ]EXCEPTION: SELECT  *  FROM category WHERE cid NOT IN() ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+[ 2016-01-16T09:21:23+08:00 ]EXCEPTION: SELECT  *  FROM category WHERE cid NOT IN() ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+[ 2016-01-16T09:21:41+08:00 ]NOTICE: Undefined variable: cateData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (29).
+[ 2016-01-16T09:21:41+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (29).
+[ 2016-01-16T09:21:41+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:21:41+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:25:14+08:00 ]NOTICE: Undefined variable: cateData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (29).
+[ 2016-01-16T09:25:14+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (29).
+[ 2016-01-16T09:25:14+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:25:14+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:25:22+08:00 ]EXCEPTION: SELECT  *  FROM category WHERE cid NOT IN() ;BindParams:array (
+)42000;1064;You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+[ 2016-01-16T09:29:42+08:00 ]NOTICE: Undefined variable: cateData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (29).
+[ 2016-01-16T09:29:42+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (29).
+[ 2016-01-16T09:29:42+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:29:42+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:30:16+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:30:16+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:31:00+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:31:00+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:31:50+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:31:50+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:32:00+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:32:00+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:32:45+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:32:45+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:33:23+08:00 ]NOTICE: Undefined variable: typeData/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T09:33:23+08:00 ]NOTICE: Invalid argument supplied for foreach()/Applications/MAMP/htdocs/houdun/mogujie/Storage/view/compile/a547f450e1e99272e83d8687bf1c3a96.php (39).
+[ 2016-01-16T17:25:51+08:00 ]NOTICE: Undefined index: pics/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (35).
+[ 2016-01-16T17:25:51+08:00 ]NOTICE: Undefined index: pics/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (36).
+[ 2016-01-16T17:25:51+08:00 ]NOTICE: Undefined index: pics/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (37).
+[ 2016-01-16T17:25:51+08:00 ]NOTICE: Undefined index: goods_content/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (38).
+[ 2016-01-16T17:25:51+08:00 ]NOTICE: Undefined index: goods_service/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (39).
+[ 2016-01-16T17:27:20+08:00 ]NOTICE: Undefined index: pics/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (35).
+[ 2016-01-16T17:27:20+08:00 ]NOTICE: Undefined index: pics/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (36).
+[ 2016-01-16T17:27:20+08:00 ]NOTICE: Undefined index: pics/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (37).
+[ 2016-01-16T17:27:20+08:00 ]NOTICE: Undefined index: goods_content/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (38).
+[ 2016-01-16T17:27:20+08:00 ]NOTICE: Undefined index: goods_service/Applications/MAMP/htdocs/houdun/mogujie/App/Admin/Model/Goods.php (39).
